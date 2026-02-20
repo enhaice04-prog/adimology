@@ -5,13 +5,14 @@ Ikuti langkah-langkah berikut secara berurutan untuk menjalankan Adimology di cl
 ## A1. Setup Supabase
 
 1. Buat akun dan project baru di [Supabase](https://supabase.com/)
-2. Catat kredensial berikut dari **Integration > Data API**:
-   - `API URL` → nanti untuk `NEXT_PUBLIC_SUPABASE_URL`
-![Supabase Setup](https://raw.githubusercontent.com/bhaktiutama/adimology/main/public/supabase01.png)
 
-3. Catat kredensial berikut dari **Project Settings > API Keys > Legacy anon, service_role API keys**:
-   - `anon public` key → nanti untuk `NEXT_PUBLIC_SUPABASE_ANON_KEY`
+![Supabase Setup](https://raw.githubusercontent.com/bhaktiutama/adimology/main/public/supabase01.png)
+2. Catat kredensial berikut dari **Integration > Data API**:
+   - `API URL` → catat untuk `NEXT_PUBLIC_SUPABASE_URL`
+
 ![Supabase Setup](https://raw.githubusercontent.com/bhaktiutama/adimology/main/public/supabase02.png)
+3. Catat kredensial berikut dari **Project Settings > API Keys > Legacy anon, service_role API keys**:
+   - `anon public` key → catat untuk `NEXT_PUBLIC_SUPABASE_ANON_KEY`
 
 
 > **PENTING: Persiapan Database (Wajib Sekali Saja)**
