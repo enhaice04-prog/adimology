@@ -21,7 +21,7 @@ Agar migrasi otomatis dapat berjalan, Anda perlu menyiapkan infrastruktur pelaca
 
 ## A2. Deploy ke Netlify
 
-1. **Fork Repository**: Pastikan Anda sudah memiliki dan login ke akun GitHub Anda. Buka repository Adimology ini di GitHub, lalu klik tombol **Fork** di pojok kanan atas. Ini akan membuat salinan project ini di akun GitHub Anda sendiri agar Anda bisa menghubungkannya ke Netlify.
+1. **Fork Repository**: Pastikan Anda sudah memiliki dan login ke akun GitHub Anda. Buka link repository [Adimology](https://github.com/bhaktiutama/adimology/) ini di GitHub, lalu klik tombol **Fork** di pojok kanan atas. Ini akan membuat salinan project ini di akun GitHub Anda sendiri agar Anda bisa menghubungkannya ke Netlify.
 ![Supabase Setup](https://raw.githubusercontent.com/bhaktiutama/adimology/main/public/netlify01.png)
 2. Jika sudah berhasil akan tampak seperti di bawah ini. Kedepannya klik Sync fork untuk mendapatkan update fitur terbaru.
 ![Supabase Setup](https://raw.githubusercontent.com/bhaktiutama/adimology/main/public/netlify02.png)
